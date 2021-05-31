@@ -22,7 +22,7 @@ namespace aspnet_get_started.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Maddem kaadhu.";
+            ViewBag.Message = "please don't do this.";
 
             return View();
         }
